@@ -1,10 +1,10 @@
-##Vision
+## Vision
 To make the buying and selling user experience online easy for everyone.
 
-##Mission
+## Mission
 Ropo commits to providing accessible, effective, and efficient commerce concepts, products, and services while ensuring everyone’s satisfaction.
 
-##Our History
+## Our History
 ROPO was incorporated in 2016, but was originally founded in 2012 under a different name by one of the original Zalora Philippines Co-founders and Managing Director, Brian Cu. The team is mostly comprised of the pioneer employees of Zalora Philippines, giving it a distinct advantage when it comes to efficient operations and processes of the local E-commerce scene.
 
 The departure from Zalora brought about in response the need of merchants who experienced the benefits of E-commerce and wanted their own site and operations, but 
